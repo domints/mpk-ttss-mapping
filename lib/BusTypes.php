@@ -21,8 +21,8 @@ class BusTypes extends VehicleTypes {
 219	243	PO	Mercedes O530 C2 Hybrid
 244	269	DO	Mercedes O530 C2
 270	299	BO	Mercedes O530 C2
-301	334	DU	Solaris Urbino 12 IV
-335	335	PU	Solaris Urbino 12 IV
+301	333	DU	Solaris Urbino 12 IV
+334	335	PU	Solaris Urbino 12 IV
 336	336	BU	Solaris Urbino 12 IV
 337	338	PU	Solaris Urbino 12 IV
 339	340	BU	Solaris Urbino 12 IV
@@ -33,9 +33,7 @@ class BusTypes extends VehicleTypes {
 490	499	KM	MAN Lion's Intercity 13
 501	510	BR	Solaris Urbino 18 IV
 511	556	DR	Solaris Urbino 18 IV
-557	558	BR	Solaris Urbino 18 IV
-559	560	DR	Solaris Urbino 18 IV
-561	579	BR	Solaris Urbino 18 IV
+557	579	BR	Solaris Urbino 18 IV
 580	595	DR	Solaris Urbino 18 IV
 596	598	KR	Solaris Urbino 18 IV
 601	601	DE	Solaris Urbino 12 III Electric
