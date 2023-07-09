@@ -22,7 +22,7 @@ class BusTypes extends VehicleTypes {
 244	269	DO	Mercedes O530 C2
 270	299	BO	Mercedes O530 C2
 301	328	DU	Solaris Urbino 12 IV
-329 333 BU	Solaris Urbino 12 IV
+329 333	BU	Solaris Urbino 12 IV
 334	335	PU	Solaris Urbino 12 IV
 336	336	BU	Solaris Urbino 12 IV
 337	338	PU	Solaris Urbino 12 IV
