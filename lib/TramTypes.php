@@ -36,7 +36,7 @@ class TramTypes extends VehicleTypes {
 601	614	RP	NGT6 (1)	2
 615	626	RP	NGT6 (2)	2
 627	650	RP	NGT6 (3)	2
-701	736	HY	Stadler Tango II	2
+701	737	HY	Stadler Tango II	2
 801	824	RY	NGT8	2
 825	839	RY	Stadler Tango	2
 840	874	HY	Stadler Tango	2
