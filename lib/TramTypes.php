@@ -2,7 +2,7 @@
 class TramTypes extends VehicleTypes {
 	public function __construct() {
 		$data = <<<'END'
-011	011	RT	105NT
+011	011	RT	105NT	0
 101	107	HW	E1	0
 108	113	RW	E1	0
 114	126	HW	E1	0
