@@ -14,8 +14,8 @@ class BusTypes extends VehicleTypes {
 113	121	BA	Autosan M09LE
 122	132	DA	Autosan M09LE
 133	141	BA	Autosan M09LE
-142 145 BA  Solaris Urbino 8,9 LE
-146 149 PA  Mercedes-Benz Sprinter Mk III
+142	145	BA	Solaris Urbino 8,9 LE
+146	149	PA	Mercedes-Benz Sprinter Mk III
 200	200	DO	Mercedes Conecto
 201	201	DO	Mercedes Conecto II
 206	210	PO	Mercedes O530 C2 Hybrid
@@ -30,7 +30,7 @@ class BusTypes extends VehicleTypes {
 337	338	PU	Solaris Urbino 12 IV
 339	340	BU	Solaris Urbino 12 IV
 341	349	KU	Solaris Urbino 12 IV
-400 401 DH  Solaris Urbino 12,9 III Hybrid
+400	401	DH	Solaris Urbino 12,9 III Hybrid
 402	402	BH	Solaris Urbino 12,9 III Hybrid
 403	408	DH	Solaris Urbino 12,9 III Hybrid
 409	433	BH	Volvo 7900 Hybrid
@@ -44,9 +44,9 @@ class BusTypes extends VehicleTypes {
 602	605	DE	Solaris Urbino 8,9LE Electric
 606	606	DE	Solaris Urbino 12 III Electric
 607	636	DE	Solaris Urbino 12 IV Electric
-637 640 DE  Irizar ie 12
-698 698 PU  Solaris Urbino 12 Mild Hybrid
-699 699 PE  Autosan M12LFH
+637	640	DE	Irizar ie 12
+698	698	PU	Solaris Urbino 12 Mild Hybrid
+699	699	PE	Autosan M12LFH
 700	700	DC	Mercedes Conecto G
 701	731	DC	Mercedes O530G
 732	734	DC	Mercedes Conecto G
